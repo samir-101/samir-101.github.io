@@ -26,8 +26,8 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Mohammad Samir Hassan" # Your name
   title            : "Machine Learning Engineer" # Your title, e.g., "PhD Student"
-  pronouns         : # example: "she/her"  
-  bio              : "ML and Embedded System Engineer at Therap (BD), B.Sc in Mechanical Engineering, Prospective PhD Student in Robotics and Mechatronics Systems field." # A short 2-3 sentence bio
+  pronouns         : # example: "she/her"
+  bio              : "Prospective PhD Student in Robotics and Control Systems field with background in Mechanical Engineering, currently working as ML and Embedded System Engineer at Therap (BD)." # A short 2-3 sentence bio
   location         : "Dhaka, Bangladesh"
   employer         : "Therap BD"
   uri              : # URL
@@ -56,7 +56,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # Replace this with you Bluesky username
-  facebook         : "xorex0"
+  # facebook         : "xorex0"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "mohammad-samir-hassan"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

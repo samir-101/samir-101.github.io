@@ -7,11 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-Hi, 
-I'm Samir, a Mechanical Engineer currently working as a Machine Learning and Embedded System Engineer at [Therap BD Ltd](https://therapbd.com/). Here I mostly work on Computer Vision, Deployment of ML models in edge devices (e.g Nvidia Jetson), Activity Recognition, Firmware for MCU and Development of Piezo Resistive Sensors.
+Hi,  
+I’m **Samir Hassan**, a Mechanical Engineer with a Bachelor’s degree from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), graduating with a **CGPA of 3.43 (out of 4.00)**. My research interests lie in **Control Theory, Robotics, and Autonomous Systems**.  
 
-I graduated from [Bangladesh University of Engineering and Technology(BUET)](https://www.buet.ac.bd/) with a CGPA of 3.43 (Out of 4.00). My research interest lies on Control Theory, Robotics and Autonomous Systems.
+Currently, I work as a **Machine Learning and Embedded Systems Engineer** at [Therap BD Ltd.](https://therapbd.com/) where I focus on:  
 
-During undergraduate studies I was a member of the university rover team [Team Interplanetar](https://buetinterplanetar.com/the-team-2024/). With my contribution and activities I became the Electrical and Communications Sub-Team Lead. Our goal was to develop a Autonomous Rover System for various task completion. With the Team I participated in European Rover Challenge (Poland, On-Site) 2022 and University Rover Challenge (USA, 2023). In this team I developed and implemented a robust power system with voltage and current sensing capabilites and Brushless DC traction system with FOC control with simpleFOC C library. Also implemented hall sensor based positional feedback system for arm autonomy. 
+- **Computer Vision** and **Activity Recognition**  
+- **Deployment of ML models on edge devices** (e.g., Nvidia Jetson)  
+- **Firmware development** for microcontrollers  
+- **Design and development of piezoresistive sensors**  
 
-In my undergraduate studies for Electro-Mechanical System Design course Me and my team developed an Autonomous Arducopter based Tri-Copter having a 4 Array microphone system with flight computer to detect and identify sound pollution sources. We implemented Mavlink communication with the flight computer and ground station for smooth path planning using ROS.
+During my undergraduate studies, I was an active member of [Team Interplanetar](https://buetinterplanetar.com/the-team-2024/), BUET’s university rover team, where I served as **Electrical and Communications Sub-Team Lead**.  
+Our team developed an autonomous rover capable of performing complex tasks and participated in:  
+
+- **European Rover Challenge (ERC)**, Poland (On-site, 2022)  
+- **University Rover Challenge (URC)**, USA (2023)  
+
+My key contributions included:  
+
+- Designing and implementing a **robust power system** with voltage and current sensing capabilities  
+- Developing a **Brushless DC traction system with FOC control**  
+- Implementing **hall-sensor-based positional feedback** for arm autonomy  
+
+For my undergraduate thesis, I worked on the **automobile sector**, where my team developed a **testing setup** to investigate the correlation between tire pressure and power consumption under varied loads.  
+Our work provided valuable insights into the effectiveness of **Automatic Tire Pressure Control Systems (ATPC)** in improving traction and fuel efficiency.  
+
+In the **Electro-Mechanical System Design** course, my team and I developed an **autonomous ArduCopter-based tri-copter** equipped with a 4-microphone array and flight computer for detecting and identifying sources of sound pollution.  
+We implemented **MAVLink communication** between the flight computer and ground station to enable smooth path planning using ROS.  
+
+I am a quick learner and passionate about solving complex problems at the intersection of **mechanical systems, electronics, and intelligent control**.  I love to work in **hands-on environments**, enjoy building and testing real systems, and am excited to contribute to the future of **robotics and autonomous systems** through innovation and practical implementation.  
