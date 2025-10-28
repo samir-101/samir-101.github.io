@@ -27,7 +27,7 @@ author:
   name             : "Mohammad Samir Hassan" # Your name
   title            : "Machine Learning Engineer" # Your title, e.g., "PhD Student"
   pronouns         : # example: "she/her"
-  bio              : "Prospective PhD Student in Robotics and Control Systems field with background in Mechanical Engineering, currently working as ML and Embedded System Engineer at Therap (BD)." # A short 2-3 sentence bio
+  bio              : "Prospective PhD Student with background in Mechanical Engineering, currently working as ML and Embedded System Engineer at Therap (BD)." # A short 2-3 sentence bio
   location         : "Dhaka, Bangladesh"
   employer         : "Therap BD"
   uri              : # URL
