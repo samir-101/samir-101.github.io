@@ -34,12 +34,13 @@ Our team developed an autonomous rover capable of performing complex tasks and p
     - Implementing **hall-sensor-based positional feedback** for arm autonomy  
     - Oversawing the **additive manufacturing (FDM Printing)** of Rover parts
 
-* For my undergraduate thesis, I worked on the **Development of an Automatic Tire Pressure Control (ATPC) System and its Effect on Vehicle Traction and Fuel Consumption**, where my team developed a **testing setup** designed by me made up of 
-  - A 2.2KW 3 Phase Induction Motor
+* For my undergraduate thesis, I worked on the **Development of an Automatic Tire Pressure Control (ATPC) System and its Effect on Vehicle Traction and Fuel Consumption**, where my team developed a **testing setup** to investigate the correlation between tire pressure and power consumption under varied loads. We logged the tire speed using tachometer, Power consumption of the Induction Motor using a 3 Phase Power Analyzer and Pressure Gauge to measure tire Pressure. Our work provided meaningful insights into the effectiveness of **Automatic Tire Pressure Control Systems (ATPC)** in enhancing traction and fuel efficiency.
+<!-- ?designed by me made up of  -->
+  <!-- - A 2.2KW 3 Phase Induction Motor
   - Variable Frequency Drive, 
   - 170/65 R16 Tire 
-  - Screw Mechanism for Loading
-to investigate the correlation between tire pressure and power consumption under varied loads. We logged the tire speed using tachometer, Power consumption of the Induction Motor using a 3 Phase Power Analyzer and Pressure Gauge to measure tire Pressure. Our work provided meaningful insights into the effectiveness of **Automatic Tire Pressure Control Systems (ATPC)** in enhancing traction and fuel efficiency.
+  - Screw Mechanism for Loading -->
+
 
   
 <!-- For my undergraduate thesis, I worked in the **automobile sector**, where my team developed a **testing setup** that I designed. The setup consisted of a **2.2 kW induction motor**, a **variable frequency drive**, a **170/65 R16 tire**, and a **screw loading mechanism** to study the correlation between **tire pressure and power consumption under different loads**. We recorded tire speed using a **tachometer**, power consumption using a **three-phase power analyzer**, and tire pressure using a **pressure gauge**. Our work provided valuable insights into the effectiveness of **Automatic Tire Pressure Control Systems (ATPC)** in improving traction and fuel efficiency. -->
