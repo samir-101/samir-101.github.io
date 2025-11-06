@@ -12,8 +12,6 @@ I’m **Samir Hassan**, a **Mechanical Engineering Graduate** from [Bangladesh U
 
 My research interests include **Control Theory, Robotics, Reinforcement Learning, Autonomy, and Multi-Agent Systems**.
 
-<!-- I’m **Samir Hassan**, a Mechanical Engineering Graduate from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), with a **CGPA of 3.43/4.00**. My GRE score is 320(167 Quant and 153 Verbal) and IELTS Score is 7.5 My research interests lie in **Control Theory, Robotics, Reinforcement Learning and Autonomy and Multi-Agent Systems**.   -->
-
 Currently, I work as a **Machine Learning and Embedded Systems Engineer** at [Therap BD Ltd.](https://therapbd.com/) where I worked on:  
 
 - **Activity Recognition** with **Computer Vision** related projects
@@ -21,6 +19,8 @@ Currently, I work as a **Machine Learning and Embedded Systems Engineer** at [Th
 - **Deployment of ML models on edge devices** (e.g., Nvidia Jetson, Raspberry Pi)  
 - **Firmware development** for microcontrollers (STM32, ESP32) 
 - **Design and development of piezoresistive sensors**  
+
+Alongside, During my sophomore year I founded [PrintOType BD](https://www.facebook.com/printotypebd/), a 3D printing and CAE consultancy startup. Using a FDM 3D printer, I have helped university students and research teams prototype and fabricate parts for academic and engineering projects. 
 
 Few of my research projects are experiences are-
 * During my undergraduate studies, I was an active member of [Team Interplanetar](https://buetinterplanetar.com/the-team-2024/), BUET’s university rover team, where I served as **Electrical and Communications Sub-Team Lead**.  

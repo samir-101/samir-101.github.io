@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 🧑‍💼 Leadership Experience
-Founder at PrintOType BD
+Founder at [PrintOType BD](https://www.facebook.com/printotypebd/)
 📅 *04/2020 – Present*  
 📍 *Dhaka, Bangladesh*  
 

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <p align="center">
-<a href= "https://drive.google.com/file/d/1TskU6k8gWg6zeIAKuoPzdYK4aZpaj6DX/view?usp=drive_link"> Link</a> to my academic CV
+<a href= "https://drive.google.com/file/d/1uXkYot3CVWo_TEoL-QDS4EmZJWf-adrZ/view?usp=drive_link"> Link</a> to my academic CV
 </p>
 
 # Mohammad Samir Hassan
