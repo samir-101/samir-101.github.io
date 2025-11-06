@@ -8,31 +8,46 @@ redirect_from:
 ---
 
 Hi,  
-I’m **Samir Hassan**, a Mechanical Engineer with a Bachelor’s degree from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), graduating with a **CGPA of 3.43 (out of 4.00)**. My research interests lie in **Control Theory, Robotics, and Autonomous Systems**.  
+I’m **Samir Hassan**, a **Mechanical Engineering Graduate** from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), with a **CGPA of 3.43/4.00**. My **GRE score** is **320** (167 Quantitative, 153 Verbal and 3.5 Writing) and my **IELTS score** is **7.5**.
 
-Currently, I work as a **Machine Learning and Embedded Systems Engineer** at [Therap BD Ltd.](https://therapbd.com/) where I focus on:  
+My research interests include **Control Theory, Robotics, Reinforcement Learning, Autonomy, and Multi-Agent Systems**.
 
-- **Computer Vision** and **Activity Recognition**  
-- **Deployment of ML models on edge devices** (e.g., Nvidia Jetson)  
-- **Firmware development** for microcontrollers  
+<!-- I’m **Samir Hassan**, a Mechanical Engineering Graduate from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), with a **CGPA of 3.43/4.00**. My GRE score is 320(167 Quant and 153 Verbal) and IELTS Score is 7.5 My research interests lie in **Control Theory, Robotics, Reinforcement Learning and Autonomy and Multi-Agent Systems**.   -->
+
+Currently, I work as a **Machine Learning and Embedded Systems Engineer** at [Therap BD Ltd.](https://therapbd.com/) where I worked on:  
+
+- **Activity Recognition** with **Computer Vision** related projects
+- **Automatic Sound Recognition(ASR), Speech TO Text(STT)**
+- **Deployment of ML models on edge devices** (e.g., Nvidia Jetson, Raspberry Pi)  
+- **Firmware development** for microcontrollers (STM32, ESP32) 
 - **Design and development of piezoresistive sensors**  
 
-During my undergraduate studies, I was an active member of [Team Interplanetar](https://buetinterplanetar.com/the-team-2024/), BUET’s university rover team, where I served as **Electrical and Communications Sub-Team Lead**.  
+Few of my research projects are experiences are-
+* During my undergraduate studies, I was an active member of [Team Interplanetar](https://buetinterplanetar.com/the-team-2024/), BUET’s university rover team, where I served as **Electrical and Communications Sub-Team Lead**.  
 Our team developed an autonomous rover capable of performing complex tasks and participated in:  
+  - **European Rover Challenge (ERC) 2022, Poland**(4th in Remote and 8th On-site)
+  - **University Rover Challenge (URC) 2023, USA**  
 
-- **European Rover Challenge (ERC)**, Poland (On-site, 2022)  
-- **University Rover Challenge (URC)**, USA (2023)  
+  My key contributions included:  
+    - Designing and implementing a **robust power system** with voltage and current sensing capabilities  
+    - Developing a **Brushless DC traction system with FOC control**  
+    - Implementing **hall-sensor-based positional feedback** for arm autonomy  
+    - Oversawing the **additive manufacturing (FDM Printing)** of Rover parts
 
-My key contributions included:  
+* For my undergraduate thesis, I worked on the **Development of an Automatic Tire Pressure Control (ATPC) System and its Effect on Vehicle Traction and Fuel Consumption**, where my team developed a **testing setup** designed by me made up of 
+  - A 2.2KW 3 Phase Induction Motor
+  - Variable Frequency Drive, 
+  - 170/65 R16 Tire 
+  - Screw Mechanism for Loading
+to investigate the correlation between tire pressure and power consumption under varied loads. We logged the tire speed using tachometer, Power consumption of the Induction Motor using a 3 Phase Power Analyzer and Pressure Gauge to measure tire Pressure. Our work provided meaningful insights into the effectiveness of **Automatic Tire Pressure Control Systems (ATPC)** in enhancing traction and fuel efficiency.
 
-- Designing and implementing a **robust power system** with voltage and current sensing capabilities  
-- Developing a **Brushless DC traction system with FOC control**  
-- Implementing **hall-sensor-based positional feedback** for arm autonomy  
+  
+<!-- For my undergraduate thesis, I worked in the **automobile sector**, where my team developed a **testing setup** that I designed. The setup consisted of a **2.2 kW induction motor**, a **variable frequency drive**, a **170/65 R16 tire**, and a **screw loading mechanism** to study the correlation between **tire pressure and power consumption under different loads**. We recorded tire speed using a **tachometer**, power consumption using a **three-phase power analyzer**, and tire pressure using a **pressure gauge**. Our work provided valuable insights into the effectiveness of **Automatic Tire Pressure Control Systems (ATPC)** in improving traction and fuel efficiency. -->
 
-For my undergraduate thesis, I worked on the **automobile sector**, where my team developed a **testing setup** to investigate the correlation between tire pressure and power consumption under varied loads.  
-Our work provided valuable insights into the effectiveness of **Automatic Tire Pressure Control Systems (ATPC)** in improving traction and fuel efficiency.  
 
-In the **Electro-Mechanical System Design** course, my team and I developed an **autonomous ArduCopter-based tri-copter** equipped with a 4-microphone array and flight computer for detecting and identifying sources of sound pollution.  
-We implemented **MAVLink communication** between the flight computer and ground station to enable smooth path planning using ROS.  
+
+* In the **Electro-Mechanical System Design** course, I developed an **autonomous Sound Source localizing Tricopter** equipped with a 4-microphone array and flight computer for **DoA and SSL** of sound pollution using Raspberry Pi 3 and Open embeddeD Audition System Library. The frame was designed and built using Aluminum Extrusions and FDM 3D Printing. We implemented **MAVLink communication** between the flight computer and ground station to enable smooth path planning using **ROS**. 
+
+  Please [click here]() to see all of my projects.
 
 I am a quick learner and passionate about solving complex problems at the intersection of **mechanical systems, electronics, and intelligent control**.  I love to work in **hands-on environments**, enjoy building and testing real systems, and am excited to contribute to the future of **robotics and autonomous systems** through innovation and practical implementation.  

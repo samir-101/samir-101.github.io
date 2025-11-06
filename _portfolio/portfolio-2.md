@@ -1,13 +1,28 @@
 ---
-title: "Rabindra-GPT"
-excerpt: "A GPT-2 based transformer model for generating Bengali text trained on the essays of Rabindra Nath Tagore <br/>"
+title: "tRIPSy - Sound Source Localizing Tri-copter"
+excerpt: "ME-366 - Electromechanical System Design Project, Under Supervision of Dr. Kazi Arafat Rahman <br/> <img src='/images/portfolio1.jpg' height=\"300\" width = \"500\">"
 collection: portfolio
 ---
 
-An experimental GPT-2 Model clone trained on Rabindranath Tagore's Essay works dataset. The code is mostly based on Andrej Karpathy's [Building GPT From Scratch](https://github.com/karpathy/ng-video-lecture) series and the dataset is derived from [Kaggle](https://www.kaggle.com/code/sayankr007/bengali-text-generation-and-language-modelling/).
+<!-- ### <center> tRIPSy <center> -->
+![An example image](/images/portfolio1.jpg "Example Image Title")
 
-Currently, the model is trained on a small dataset of 100 essays and generates text in Bengali. The model can be further fine-tuned and improved with a larger dataset and more training. Tokenization is done using Byte Pair Embedding algorithm from `tiktoken` library and the model is trained using PyTorch.
+Sound source localization tri-copter is our ME 366 project. It uses a 4 array microphone arranged
+in a circular pattern to detect noise sources and their direction of arrival(DOA). We used an
+open source library “Open embeddeD Audition System(ODAS)” in order to detect noise sources
+and their direction relative to the UAV. There are three fundamental duties of our UAV, 1.
+Detecting noise sources and their direction. 2. Moving towards that direction 3. Taking photos
+and keeping a database of the noise sources. For detecting noise sources, the quietness of our
+UAV was our first criterion for selection of frame, so we chose tri-copter because of their lower
+noise level and higher efficiency.
 
-**Example Token Input and Output:**  
-কত অধ্যবসায় কত ভীষণ কতই চক্ষুবদ্ধ -  
-কত অধ্যবসায় কত ভীষণ কতই চক্ষুবদ্ধ বৃষের অনুবর্তন করা তেতো আনা সহজ হয় খাটিয়েছেন তবু শ্রোতাদের নাই । এঁদের শিক্ষিত ছেলের বড়ো জটিলতায় যার নহেন । এ দেশে আধুনিক রসায়ন ভ্রাতৃসংঘের ইংরেজি ভাষা সমাজে কাড়াকাড়ি সাধনে স্বতন্ত্র চিরস্মরণীয় করে বেড়াচ্ছেন । এসেছিল ধর্মানুষ্ঠানেরই অন্তর্গত । দেশের যুদ্ধের সময় এখানকার উত্তরতম জটিলতার আভাস জ্ঞানম্ কলাপাতায় আমাদের দেশের জীবনের লক্ষণ যত দিন নেই তত উৎকল দত্তের অধিকারীর এবং ঘোষিত সেখানে অস্পষ্ট । ইন্সিওরেন্সের আট বছরের মধ্যে জাপানে এসেছে ছেলেরা বিচিত্র নিবেদিত । মধ্যযুগে প্রত্যহ যদিচ চাষীদের সঙ্গে দূরের ইস্কুল থামিয়াছে এক দিকে রূপ সেখানেও আমাদের একেবারে নবীন জিনিসকে সংগ্রহ করতে পারে না । আমাদের দেশের অনেক বড়ো বড়ো
+The tri-copter can automatically detect the loudest sound source that resides within its range of
+coverage area and moves towards it until it succeeds in reaching its waypoint which is
+specifically above that source. A single board computer with an integrated microphone array is
+used for this purpose.
+
+An onboard camera takes a picture of the sound source upon reaching the target waypoint and
+extracts text from that image using various image processing algorithms and sends that data to
+the server. And the whole process repeats.
+
+[Watch the demo](https://drive.google.com/file/d/1XyavT176DY2Cmmb_UteQy8sg8_kseMQP/view?usp=drive_link)

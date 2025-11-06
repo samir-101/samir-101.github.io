@@ -1,28 +1,33 @@
 ---
-title: "tRIPSy - Sound Source Localizing Tri-copter"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio1.jpg' height=\"300\" width = \"500\">"
+title: "Undergraduate Thesis: Development of an Automatic Tire Pressure Control (ATPC) System and its Effect on Vehicle Traction and Fuel Consumption"
+excerpt: "Undergraduate Thesis, Under Supervision of Prof. Dr. Md. Ehsan <br/><img src='/images/thesis/portfolio3.jpeg' height=\"300\" width = \"500\">"
 collection: portfolio
 ---
+<div align="center">
+  <img src="/images/thesis/portfolio3.jpeg" alt="Example Image 1" title="Thesis Test Setup" style="height:30vw; border-radius:8px;">
+</div>
 
-<!-- ### <center> tRIPSy <center> -->
-![An example image](/images/portfolio1.jpg "Example Image Title")
+The efficiency and safety of automotive vehicles are significantly influenced by the tire pressure.
+It is crucial to ensure that the proper tire pressure is upheld as it plays a significant role in
+enhancing traction on the road, improving fuel consumption efficiency, and extending the overall
+lifespan of the tires. In this research, we delve into the analysis of power consumption with speed
+at different pressure and loads for the development of an innovative Automatic Tire Pressure
+Control (ATPC) system. This system can meticulously craft the purpose of consistency of
+regulating and sustaining the optimal tire pressure levels across a spectrum of diverse driving
+conditions. The primary focus of our study revolves around investigating the profound effects
+that this advanced ATPC system exerts on the traction capabilities of the vehicle as well as its
+power consumption metrics. To achieve a comprehensive understanding, our research
+methodology encompasses a blend of rigorous theoretical analysis coupled with hands-on
+practical experimentation.
 
-Sound source localization tri-copter is our ME 366 project. It uses a 4 array microphone arranged
-in a circular pattern to detect noise sources and their direction of arrival(DOA). We used an
-open source library “Open embeddeD Audition System(ODAS)” in order to detect noise sources
-and their direction relative to the UAV. There are three fundamental duties of our UAV, 1.
-Detecting noise sources and their direction. 2. Moving towards that direction 3. Taking photos
-and keeping a database of the noise sources. For detecting noise sources, the quietness of our
-UAV was our first criterion for selection of frame, so we chose tri-copter because of their lower
-noise level and higher efficiency.
+**Experimental Results**
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="/images/thesis/thesis1.png" alt="Power vs Speed Graph at 50KG" title="Power vs Speed Graph at 50KG" style="width:20vw; border-radius:8px;">
+  <img src="/images/thesis/thesis2.png" alt="Power vs Speed Graph at 85KG" title="Power vs Speed Graph at 85KG" style="width:20vw; border-radius:8px;">
+  <img src="/images/thesis/thesis3.png" alt="Power vs Speed Graph at 25psig" title="Power vs Speed Graph at 25psig" style="width:20vw; border-radius:8px;">
+  <img src="/images/thesis/thesis4.png" alt="Power vs Speed Graph at 30psig" title="Power vs Speed Graph at 30psig" style="width:20vw; border-radius:8px;">
+</div>
 
-The tri-copter can automatically detect the loudest sound source that resides within its range of
-coverage area and moves towards it until it succeeds in reaching its waypoint which is
-specifically above that source. A single board computer with an integrated microphone array is
-used for this purpose.
-
-An onboard camera takes a picture of the sound source upon reaching the target waypoint and
-extracts text from that image using various image processing algorithms and sends that data to
-the server. And the whole process repeats.
-
-[Watch the demo](https://drive.google.com/file/d/1XyavT176DY2Cmmb_UteQy8sg8_kseMQP/view?usp=drive_link)
+<p align="center">
+<a href= "https://drive.google.com/file/d/1VwHxmW29S1LrOkMl9f1nqvEBsSXYzJRo/view?usp=drive_link"> Link</a> to the thesis book.
+</p>

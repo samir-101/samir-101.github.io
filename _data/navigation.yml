@@ -15,7 +15,10 @@ main:
   #   url: /talks/    
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /teaching/
+
+  - title: "CV"
+    url: /cv/    
     
   - title: "Projects Portfolio"
     url: /portfolio/
@@ -23,11 +26,8 @@ main:
   - title: "Professional Experiences"
     url: /experience/
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Blogs"
-    url: /blogs/
+  - title: "Contact Me"
+    url: /contact/
 
   # - title: "CV"
   #   url: /cv-json/
