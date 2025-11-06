@@ -48,6 +48,6 @@ to investigate the correlation between tire pressure and power consumption under
 
 * In the **Electro-Mechanical System Design** course, I developed an **autonomous Sound Source localizing Tricopter** equipped with a 4-microphone array and flight computer for **DoA and SSL** of sound pollution using Raspberry Pi 3 and Open embeddeD Audition System Library. The frame was designed and built using Aluminum Extrusions and FDM 3D Printing. We implemented **MAVLink communication** between the flight computer and ground station to enable smooth path planning using **ROS**. 
 
-  Please [click here]() to see all of my projects.
+  Please [click here](https://samir-101.github.io/portfolio/) to see all of my projects.
 
 I am a quick learner and passionate about solving complex problems at the intersection of **mechanical systems, electronics, and intelligent control**.  I love to work in **hands-on environments**, enjoy building and testing real systems, and am excited to contribute to the future of **robotics and autonomous systems** through innovation and practical implementation.  

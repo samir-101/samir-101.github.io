@@ -33,6 +33,3 @@ Feel free to reach out through any of the following channels:
 📌 Dhaka, Bangladesh  
 
 ---
-
-{% include toc %}
-

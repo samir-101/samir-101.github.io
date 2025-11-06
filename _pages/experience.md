@@ -7,7 +7,6 @@ redirect_from:
   # - /markdown.html
 ---
 
-{% include toc %}
 ## 🧑‍💼 Leadership Experience
 Founder at PrintOType BD
 📅 *04/2020 – Present*  
