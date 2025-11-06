@@ -9,8 +9,7 @@ redirect_from:
 
 # 📬 Contact Me
 
-I’m always happy to connect and discuss **research collaborations**, **robotics projects**, or **engineering ideas**.  
-Feel free to reach out through any of the following channels:
+I’m always happy to connect and discuss **research collaborations**, **robotics projects**, or **engineering ideas**. Feel free to reach out through any of the following channels:
 
 ---
 
