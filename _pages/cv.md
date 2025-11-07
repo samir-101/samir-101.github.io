@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 <p align="center">
-<a href= "https://drive.google.com/file/d/1uXkYot3CVWo_TEoL-QDS4EmZJWf-adrZ/view?usp=drive_link"> Link</a> to my academic CV
+<a href= "https://drive.google.com/file/d/1wIzWslZnXH2hugxWtHO8AYfeoeMpakRJ/view?usp=drive_link"> Link</a> to my academic CV
 </p>
 
 # Mohammad Samir Hassan
 
-msamir.hassanl@gmail.com \|
+msamir.hassanl@gmail.com |
 +880 1964 017918 |
 [Website](https://samir-101.github.io/) | [LinkedIn](linkedin.com/in/mohammad-samir-hassan) | [Github](https://github.com/samir-101)
 
