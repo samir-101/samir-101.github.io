@@ -10,7 +10,7 @@ redirect_from:
 Hi,  
 I’m **Samir Hassan**, a **Mechanical Engineering Graduate** from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), with a **CGPA of 3.43/4.00**. My **GRE score** is **320** (167 Quantitative, 153 Verbal and 3.5 Writing) and my **IELTS score** is **7.5**.
 
-My research interests include **Control Theory, Robotics, Reinforcement Learning, Autonomy, and Multi-Agent Systems**.
+My research interests include **Control Theory, Robotics, Reinforcement Learning, SLAM and Perception and Multi-Agent Systems**.
 
 Currently, I work as a **Machine Learning and Embedded Systems Engineer** at [Therap BD Ltd.](https://therapbd.com/) where I worked on:  
 
@@ -32,7 +32,7 @@ Our team developed an autonomous rover capable of performing complex tasks and p
     - Designing and implementing a **robust power system** with voltage and current sensing capabilities  
     - Developing a **Brushless DC traction system with FOC control**  
     - Implementing **hall-sensor-based positional feedback** for arm autonomy  
-    - Oversawing the **additive manufacturing (FDM Printing)** of Rover parts
+    - Overseeing the **additive manufacturing (FDM Printing)** of Rover parts
 
 * For my undergraduate thesis, I worked on the **Development of an Automatic Tire Pressure Control (ATPC) System and its Effect on Vehicle Traction and Fuel Consumption**, where my team developed a **testing setup** to investigate the correlation between tire pressure and power consumption under varied loads. We logged the tire speed using tachometer, Power consumption of the Induction Motor using a 3 Phase Power Analyzer and Pressure Gauge to measure tire Pressure. Our work provided meaningful insights into the effectiveness of **Automatic Tire Pressure Control Systems (ATPC)** in enhancing traction and fuel efficiency.
 
