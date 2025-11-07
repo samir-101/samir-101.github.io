@@ -1,6 +1,6 @@
 ---
-title: "Haptic Feedback Based Race Collaboration System for Hearing Impaired Athelets"
-excerpt: "ESP-32 and NRF24L01 Based Low Latency Communication System to synchronize races by providing Haptic feedback to the hearing impaired patients.<br/><img src='/images/haptic/img1.jpeg' height=\"300\" width = \"500\">"
+title: "Haptic Feedback Based Race Collaboration System for Hearing Impaired Athletes"
+excerpt: "ESP-32 and NRF24L01 Based Low Latency Communication System to synchronize races by providing Haptic feedback to the hearing impaired Athletes.<br/><img src='/images/haptic/img1.jpeg' height=\"300\" width = \"500\">"
 collection: portfolio
 ---
 <div align="center">
