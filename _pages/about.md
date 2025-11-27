@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<meta name="google-site-verification" content="PXpmMjdXWI32zdO6hNtVOsk70bG7936mz4yAJ8P4fWM" />
 Hi,  
 I’m **Samir Hassan**, a **Mechanical Engineering Graduate** from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), with a **CGPA of 3.43/4.00**. My **GRE score** is **320** (167 Quantitative, 153 Verbal and 3.5 Writing) and my **IELTS score** is **7.5**.
 
